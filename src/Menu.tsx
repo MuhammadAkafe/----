@@ -172,7 +172,7 @@ const Menu = () => (
             className="flex justify-center"
           >
             <img
-              src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://your-restaurant-menu-link.com"
+              src="resturant-pi-steel.vercel.app"
               alt="رمز QR"
               className="w-28 h-28 border-2 border-gray-300 rounded-lg shadow-md"
             />
