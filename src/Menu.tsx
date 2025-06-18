@@ -166,13 +166,13 @@ const Menu = () => (
         <div className="bg-white rounded-2xl shadow-lg p-6 border border-gray-200 flex flex-col items-center">
           <h2 className="text-lg font-semibold mb-2">امسح رمز QR لعرض القائمة</h2>
           <a
-            href="https://your-restaurant-menu-link.com"
+            href="resturant-pi-steel.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="flex justify-center"
           >
             <img
-              src="resturant-pi-steel.vercel.app"
+              src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://resturant-pi-steel.vercel.app"
               alt="رمز QR"
               className="w-28 h-28 border-2 border-gray-300 rounded-lg shadow-md"
             />
